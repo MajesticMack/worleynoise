@@ -1,0 +1,11 @@
+# vs stuff
+.vs
+.vscode
+
+#build artifacts
+out/
+*.dll
+*.lib
+*.exe
+*.so
+*.dylib
